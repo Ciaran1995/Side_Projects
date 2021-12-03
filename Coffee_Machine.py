@@ -9,7 +9,7 @@ Created on Tue Oct 26 15:49:59 2021
 import numpy as np
 
 class Coffee_Machine:
-    """ Coffee machine class with pre-determined drinks and prices.
+    """ Coffee machine class with pre-determined drinks, resources and prices.
     """
     
     resources = {'Water': 300, 'Milk': 200, 'Coffee': 100}
